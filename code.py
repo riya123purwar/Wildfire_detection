@@ -77,3 +77,5 @@ history = model.fit(
 # Save the trained model
 model.save('forest_fire_detection_model.h5')
 
+
+
